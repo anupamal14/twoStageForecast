@@ -12,6 +12,8 @@
 #'
 #' @examples
 #'
+#' @export
+#'
 
 
 twoStage.penalizedLikelihood <- function(MSE, n, p) {

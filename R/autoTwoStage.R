@@ -23,6 +23,8 @@
 #'
 #' @importFrom stats aggregate fft lm
 #'
+#' @export
+#'
 
 auto.twoStage <- function(d, n = NULL, p = NULL, seas_periods = NULL, regMat = NULL,
                           plotFlag = FALSE) {

@@ -11,6 +11,8 @@
 #'
 #' @examples
 #'
+#' @export
+#'
 
 
 twoStage.accuracy <- function(yhat, y) {

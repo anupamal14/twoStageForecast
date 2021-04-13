@@ -13,6 +13,8 @@
 #'
 #' @importFrom data.table data.table
 #'
+#' @export
+#'
 
 
 secondStage <- function(d, seas_periods) {
