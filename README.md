@@ -1,5 +1,6 @@
 # twoStageForecast
-Use this package to forecast time series with multiple levels of seasonality <br>
+Use this package to forecast time series with multiple levels of seasonality. <br>
+The elecLoad.csv is a sample electricity load data provided with the package. <br>
 
 Example: <br>
 elec <- read.csv("elecLoad.csv") <br> 
